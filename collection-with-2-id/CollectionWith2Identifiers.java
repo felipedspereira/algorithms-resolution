@@ -1,5 +1,3 @@
-package hashset;
-
 import java.util.HashMap;
 
 /**
